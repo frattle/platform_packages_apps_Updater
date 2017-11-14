@@ -5,7 +5,7 @@
     <string name="notification_title">Update successfully installed</string>
     <string name="notification_title_legacy">Update successfully downloaded</string>
     <string name="notification_text">Please reboot the device to run the latest OS release.</string>
-    <string name="notification_text_legacy">Please install the latest OS release.</string>
+    <string name="notification_text_legacy">An update is available for installation. Devices purchased with CopperheadOS installed from a vendor other than Copperhead, NCryptcellular or Golden Silence were sold in violation of the license and cannot be safely updated. Devices flashed non-commercially can update without risk.</string>
     <string name="notification_reboot_action">Reboot</string>
     <string name="notification_reboot_action_legacy">Reboot and install</string>
     <string name="settings_title">System update settings</string>
